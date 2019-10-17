@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "description": "🔎 Google Search on Terminal",
   "license": "MIT",
-  "main": "index.js",
   "preferGlobal": true,
-  "bin": "./index.js",
+  "bin": "./cli.js",
   "repository": "git@github.com:mauriciomutte/googlezy.git",
   "author": {
     "name": "Maurício Mutte",

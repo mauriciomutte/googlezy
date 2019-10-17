@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const open = require('open');
 
 const search = process.argv.slice(2).join(' ');
