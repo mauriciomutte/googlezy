@@ -1,0 +1,21 @@
+{
+  "name": "googlezy",
+  "version": "1.0.0",
+  "description": "🔎 Google Search on Terminal",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "git@github.com:mauriciomutte/googlezy.git",
+  "author": {
+    "name": "Maurício Mutte",
+    "email": "mauriciomutte.mm@gmail.com"
+  },
+  "keywords": [
+    "search",
+    "google",
+    "terminal",
+    "browser"
+  ],
+  "dependencies": {
+    "open": "^7.0.0"
+  }
+}
