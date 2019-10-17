@@ -1,6 +1,6 @@
 {
   "name": "googlezy",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "🔎 Google Search on Terminal",
   "license": "MIT",
   "preferGlobal": true,
