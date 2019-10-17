@@ -1,2 +1,3 @@
-# terminal-google-search
-Terminal Google search
+# Googlezy
+
+🔎 Google Search on Terminal
