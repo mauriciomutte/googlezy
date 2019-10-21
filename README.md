@@ -8,7 +8,7 @@
   <a href="https://github.com/mauriciomutte/googlezy/blob/master/LICENSE">
     <img alt="GitHub license" src="https://img.shields.io/github/license/mauriciomutte/googlezy">
   </a>
-  <a href="https://twitter.com/mauriciomutte/">
+  <a href="https://twitter.com/mauriciomutte/status/1184961537213112320">
     <img alt="Twitter" src="https://img.shields.io/twitter/url/https/github.com/mauriciomutte/googlezy?style=social">
   </a>
 </p>
